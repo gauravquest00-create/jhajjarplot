@@ -25,7 +25,7 @@ export default function EnquiryForm({
   const [budget, setBudget] = useState(defaultBudget);
   const [selectedProject, setSelectedProject] = useState(project);
   const [consent, setConsent] = useState(true);
-  const [website, setWebsite] = useState(''); // Honeypot field
+  const [website, setWebsite] = useState(''); // Hidden honeypot
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [phoneError, setPhoneError] = useState('');
 
@@ -35,9 +35,8 @@ export default function EnquiryForm({
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
-    // Honeypot check: bots fill this field; legitimate users do not
+    // Bot trap check
     if (website) {
-      console.warn('Bot submission blocked.');
       return;
     }
 
@@ -78,7 +77,6 @@ export default function EnquiryForm({
         body: JSON.stringify(payload),
       });
 
-      // In "no-cors" mode the fetch resolves successfully once sent
       setStatus('success');
     } catch (err) {
       console.error('Failed to submit enquiry to sheet:', err);
@@ -90,7 +88,6 @@ export default function EnquiryForm({
     <div
       className={`bg-white border border-slate-200/90 rounded-2xl sm:rounded-3xl p-5 sm:p-7 shadow-xl shadow-slate-200/50 transition-all duration-300 ${className}`}
     >
-      {/* Header */}
       <div className="mb-5">
         <span className="inline-flex items-center gap-1.5 text-[11px] font-bold text-amber-700 bg-amber-50 border border-amber-200 px-2.5 py-1 rounded-full uppercase tracking-wider mb-2">
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
@@ -104,9 +101,8 @@ export default function EnquiryForm({
         </p>
       </div>
 
-      {/* Success State */}
       {status === 'success' && (
-        <div className="p-5 rounded-2xl bg-emerald-50 border border-emerald-200 text-center space-y-3 animate-fadeIn">
+        <div className="p-5 rounded-2xl bg-emerald-50 border border-emerald-200 text-center space-y-3">
           <div className="w-12 h-12 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center mx-auto text-2xl font-bold">
             ✓
           </div>
@@ -123,11 +119,8 @@ export default function EnquiryForm({
             href={whatsappUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm py-3 px-4 rounded-xl shadow-md shadow-emerald-600/20 active:scale-[0.98] transition-all"
+            className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm py-3 px-4 rounded-xl shadow-md active:scale-[0.98] transition-all"
           >
-            <svg className="w-4 h-4 fill-current" viewBox="0 0 24 24">
-              <path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.771-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.311.045-.698.058-2.029-.494-1.636-.677-2.704-2.339-2.787-2.451-.084-.112-.664-.883-.664-1.682 0-.8.419-1.192.569-1.353.15-.162.33-.203.441-.203.111 0 .222.002.319.006.104.004.243-.039.38.29.144.343.491 1.196.534 1.283.043.087.072.189.014.303-.058.115-.087.187-.174.288-.087.102-.183.228-.261.306-.089.088-.182.184-.078.362.104.179.462.763.992 1.235.683.608 1.258.796 1.437.885.179.088.283.074.388-.046.105-.121.452-.527.573-.707.121-.18.242-.151.405-.091.163.061 1.034.488 1.212.576.178.088.298.132.342.206.044.074.044.432-.1.837z" />
-            </svg>
             <span>Continue on WhatsApp</span>
           </a>
 
@@ -141,9 +134,8 @@ export default function EnquiryForm({
         </div>
       )}
 
-      {/* Error State */}
       {status === 'error' && (
-        <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-center space-y-3 animate-fadeIn">
+        <div className="p-4 rounded-2xl bg-amber-50 border border-amber-200 text-center space-y-3">
           <p className="font-bold text-amber-900 text-sm">
             Notice: Online sheet backup is currently delayed.
           </p>
@@ -168,10 +160,9 @@ export default function EnquiryForm({
         </div>
       )}
 
-      {/* Form State */}
       {status !== 'success' && status !== 'error' && (
         <form onSubmit={handleSubmit} className="space-y-3.5">
-          {/* Off-screen Honeypot input (must stay empty; tabIndex -1) */}
+          {/* Honeypot hidden input */}
           <div
             style={{
               position: 'absolute',
@@ -274,7 +265,6 @@ export default function EnquiryForm({
             </div>
           </div>
 
-          {/* Consent Checkbox */}
           <div className="pt-1">
             <label className="flex items-start gap-2.5 cursor-pointer text-slate-600 select-none">
               <input
@@ -289,7 +279,6 @@ export default function EnquiryForm({
             </label>
           </div>
 
-          {/* Submit Button */}
           <button
             type="submit"
             disabled={status === 'loading'}
