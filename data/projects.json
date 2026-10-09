@@ -1,0 +1,855 @@
+[
+  {
+    "id": "reliance-met-city",
+    "slug": "reliance-met-city-sector-1-jhajjar",
+    "title": "Reliance MET City Plots Sector 1 Jhajjar",
+    "shortName": "Reliance MET City",
+    "tagline": "8,260 Acre Mega Greenfield Smart Township by Reliance Industries",
+    "badge": "RERA Approved Mega City",
+    "category": "Mega Township",
+    "featured": true,
+    "location": {
+      "sector": "Sector 1",
+      "city": "Jhajjar",
+      "district": "Jhajjar",
+      "state": "Haryana",
+      "landmark": "Near AIIMS-II Badli & KMP Expressway",
+      "fullAddress": "Model Economic Township (MET City), Sector 1, Jhajjar - Gurugram Road, Haryana 124103",
+      "pinCode": "124103",
+      "coordinates": {
+        "lat": 28.5638,
+        "lng": 76.7824
+      }
+    },
+    "ratePerGaj": 110000,
+    "ratePerGajText": "₹1.10 Lakh / Gaj",
+    "totalArea": "8,260 Acres",
+    "plotSizesGaj": [
+      150,
+      200,
+      250,
+      350,
+      500,
+      1000
+    ],
+    "plotSizesSqFt": [
+      1350,
+      1800,
+      2250,
+      3150,
+      4500,
+      9000
+    ],
+    "startingPriceInLakhs": 165,
+    "startingPriceText": "₹1.65 Cr*",
+    "projectType": "Mega Integrated Smart Township",
+    "reraStatus": "RERA Registered & Approved",
+    "reraNumber": "HRERA-PKL-JJR-2018/142",
+    "developer": "Model Economic Township Ltd. (100% Subsidiary of Reliance Industries Ltd.)",
+    "possession": "Ready for Possession & Under Development Phases",
+    "propertyHighlights": [
+      "North India's largest 8,260-Acre integrated smart city",
+      "Developed by Reliance Industries (RIL Subsidiary)",
+      "Direct 0-KM connectivity to KMP Western Peripheral Expressway",
+      "Dedicated Rail Cargo Terminal & upcoming Haryana Orbital Rail Station",
+      "Operational Fortune 500 MNCs (Panasonic, Denso, Nihon Kohden, FM Logistic)",
+      "Wide 60m - 80m arterial blacktop roads with LED streetscapes",
+      "24x7 Uninterrupted captive power grid & water distribution network",
+      "Clear freehold titles with instant DTCP registry & mutation"
+    ],
+    "pros": [
+      {
+        "title": "Reliance Industries Backing",
+        "description": "Zero project completion risk backed by India's biggest conglomerate (Reliance Industries Limited).",
+        "icon": "shield-check"
+      },
+      {
+        "title": "World-Class Infrastructure",
+        "description": "60m to 80m wide sector roads, underground high-tension power cables, modern storm-water drainage, and fiber-optic connectivity.",
+        "icon": "building"
+      },
+      {
+        "title": "Unrivalled Capital Appreciation",
+        "description": "With 400+ national and multinational corporations setting up operations, plot values have demonstrated 25-35% annual capital appreciation.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Hub of Global MNCs & Jobs",
+        "description": "Japanese Industrial Township within MET City hosts Panasonic, Denso, Yanmar, creating over 25,000+ high-income employment opportunities.",
+        "icon": "briefcase"
+      },
+      {
+        "title": "Strategic Delhi-NCR Location",
+        "description": "Positioned right on the KMP Expressway corridor, seamlessly linking Gurugram, Dwarka Expressway, Manesar, and Delhi.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Plug & Play Commercial & Living",
+        "description": "Integrated residential sectors, SCO commercial plots, schools, hospital zones, and shopping malls all inside a single township.",
+        "icon": "check-circle"
+      }
+    ],
+    "advantages": [
+      {
+        "category": "Connectivity Advantages",
+        "items": [
+          "Direct access to Western Peripheral Expressway (KMP) within 0 mins",
+          "20 minutes drive to Dwarka Expressway & New Gurugram",
+          "30 minutes to Cyber City & Rajiv Chowk Gurugram via Farrukhnagar",
+          "45 minutes to Indira Gandhi International (IGI) Airport Delhi",
+          "Direct linkage to AIIMS-II National Cancer Institute at Badli (5 mins)",
+          "Upcoming Haryana Orbital Rail Corridor (HORC) passenger station inside MET City"
+        ]
+      },
+      {
+        "category": "Infrastructure & Civic Advantages",
+        "items": [
+          "66 kV dedicated power substation with dual grid fail-over backup",
+          "Centralized sewage treatment plant (STP) and zero liquid discharge system",
+          "Over 25% area dedicated to lush green parks, tree-lined boulevards, and water bodies",
+          "Modern multi-tier security with automated boom barriers and 24x7 CCTV grid",
+          "Proximity to premier educational institutes like SGT University & GD Goenka"
+        ]
+      },
+      {
+        "category": "Investment & Financial Advantages",
+        "items": [
+          "Approved for home loans from all leading banks (SBI, HDFC, ICICI, PNB)",
+          "Flexible payment milestones and transparent RERA escrow compliance",
+          "Phenomenal rental yield potential driven by corporate workforce influx",
+          "High liquidity for plots due to prestigious Reliance branding"
+        ]
+      }
+    ],
+    "locationConnectivity": [
+      {
+        "destination": "KMP Expressway Entry",
+        "distance": "0.5 KM",
+        "travelTime": "2 Mins"
+      },
+      {
+        "destination": "AIIMS-II Badli Campus",
+        "distance": "3.5 KM",
+        "travelTime": "5 Mins"
+      },
+      {
+        "destination": "Dwarka Expressway / Gurugram Border",
+        "distance": "18 KM",
+        "travelTime": "20 Mins"
+      },
+      {
+        "destination": "Rajiv Chowk / NH-48 Gurugram",
+        "distance": "26 KM",
+        "travelTime": "30 Mins"
+      },
+      {
+        "destination": "IGI International Airport Terminal 3",
+        "distance": "42 KM",
+        "travelTime": "45 Mins"
+      },
+      {
+        "destination": "Bahadurgarh Metro Station (Green Line)",
+        "distance": "20 KM",
+        "travelTime": "25 Mins"
+      }
+    ],
+    "amenities": [
+      {
+        "name": "60m Wide Blacktop Roads",
+        "category": "Infrastructure",
+        "icon": "road"
+      },
+      {
+        "name": "24x7 Captive Power Supply",
+        "category": "Utilities",
+        "icon": "zap"
+      },
+      {
+        "name": "Central Water Reservoir",
+        "category": "Utilities",
+        "icon": "droplet"
+      },
+      {
+        "name": "Gated Multi-tier Security",
+        "category": "Safety",
+        "icon": "shield"
+      },
+      {
+        "name": "Japanese Industrial Park",
+        "category": "Commercial",
+        "icon": "globe"
+      },
+      {
+        "name": "Logistics & Cargo Hub",
+        "category": "Commercial",
+        "icon": "truck"
+      },
+      {
+        "name": "Green Central Parks",
+        "category": "Environment",
+        "icon": "trees"
+      },
+      {
+        "name": "SCO Commercial Markets",
+        "category": "Retail",
+        "icon": "shopping-bag"
+      }
+    ],
+    "masterPlanHighlights": [
+      "Master layout spanning 8,260 acres planned by internationally renowned urban designers",
+      "Self-sustainable eco-city combining Industrial, Commercial, Residential, and Institutional sectors",
+      "Dedicated utility corridors for power, water, telecom, and natural gas pipelines",
+      "Rainwater harvesting systems and wide retention lakes preventing water-logging",
+      "Designated hospital clusters, educational academies, and fire stations within the perimeter"
+    ],
+    "pricingBreakdown": [
+      {
+        "sizeGaj": 150,
+        "sizeSqFt": 1350,
+        "basePrice": "₹1.65 Cr",
+        "bookingAmount": "₹16.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹1.15 Lakh*"
+      },
+      {
+        "sizeGaj": 200,
+        "sizeSqFt": 1800,
+        "basePrice": "₹2.20 Cr",
+        "bookingAmount": "₹22.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹1.53 Lakh*"
+      },
+      {
+        "sizeGaj": 250,
+        "sizeSqFt": 2250,
+        "basePrice": "₹2.75 Cr",
+        "bookingAmount": "₹27.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹1.91 Lakh*"
+      },
+      {
+        "sizeGaj": 350,
+        "sizeSqFt": 3150,
+        "basePrice": "₹3.85 Cr",
+        "bookingAmount": "₹38.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹2.68 Lakh*"
+      },
+      {
+        "sizeGaj": 500,
+        "sizeSqFt": 4500,
+        "basePrice": "₹5.50 Cr",
+        "bookingAmount": "₹55.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹3.82 Lakh*"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the current plot rate in Reliance MET City Sector 1 Jhajjar?",
+        "answer": "The current rate for plots in Reliance MET City Sector 1 Jhajjar is approximately ₹1,10,000 per Gaj (Sq. Yard). Plot sizes typically start from 150 Gaj (1,350 sq.ft) costing ₹1.65 Crore onwards."
+      },
+      {
+        "question": "Is Reliance MET City RERA registered and DTCP approved?",
+        "answer": "Yes, Reliance MET City is fully approved by the Directorate of Town and Country Planning (DTCP), Haryana and is registered under Haryana Real Estate Regulatory Authority (HRERA) with clear, legally verified freehold titles."
+      },
+      {
+        "question": "Which major global companies are operational in Reliance MET City?",
+        "answer": "Over 400+ national and multinational corporations have acquired land or are operational here, including Panasonic, Denso Automotive, Nihon Kohden, Amber Enterprises, FM Logistic, and IndoSpace."
+      },
+      {
+        "question": "How far is Reliance MET City from Gurugram and Delhi?",
+        "answer": "Reliance MET City is located just 18 km from Dwarka Expressway / New Gurugram (approx 20 minutes) and 42 km from IGI Airport Delhi via the KMP Expressway corridor."
+      },
+      {
+        "question": "Are bank loans available for purchasing plots in Reliance MET City?",
+        "answer": "Yes, leading public and private banks including State Bank of India (SBI), HDFC Bank, ICICI Bank, and PNB provide up to 75-80% loan assistance for plot purchases in Reliance MET City."
+      }
+    ],
+    "seo": {
+      "metaTitle": "Reliance MET City Plots Sector 1 Jhajjar - Price ₹1.10 Lakh/Gaj | 8260 Acre Smart City",
+      "metaDescription": "Explore residential & commercial plots in Reliance MET City, Sector 1 Jhajjar. 8,260-Acre RERA approved township by Reliance at ₹1.10 Lakh per gaj. Check plot sizes, master plan & price list.",
+      "keywords": [
+        "reliance met city jhajjar",
+        "reliance met city plot price",
+        "reliance met city sector 1 jhajjar",
+        "plots in reliance met city",
+        "jhajjar sector 1 plots",
+        "model economic township jhajjar",
+        "plots near kmp expressway jhajjar",
+        "reliance plots jhajjar haryana",
+        "commercial plots reliance met city",
+        "residential plots in jhajjar 1.10 lakh per gaj"
+      ],
+      "canonicalUrl": "https://www.jhajjarplots.com/plots/reliance-met-city-sector-1-jhajjar"
+    }
+  },
+  {
+    "id": "nobel-economic-township",
+    "slug": "nobel-economic-township-sector-1-jhajjar",
+    "title": "Nobel Economic Township Sector 1 Jhajjar Plots",
+    "shortName": "Nobel Economic Township",
+    "tagline": "210 Acre Gated Society Plotted Community at just ₹30,000 per Gaj",
+    "badge": "Best Value Gated Society",
+    "category": "Gated Society",
+    "featured": true,
+    "location": {
+      "sector": "Sector 1",
+      "city": "Jhajjar",
+      "district": "Jhajjar",
+      "state": "Haryana",
+      "landmark": "Adjacent to Reliance MET City Sector 1",
+      "fullAddress": "Nobel Economic Township, Opposite Reliance MET City Phase-1, Sector 1, Jhajjar, Haryana 124103",
+      "pinCode": "124103",
+      "coordinates": {
+        "lat": 28.571,
+        "lng": 76.775
+      }
+    },
+    "ratePerGaj": 30000,
+    "ratePerGajText": "₹30,000 / Gaj (30k/Gaj)",
+    "totalArea": "210 Acres",
+    "plotSizesGaj": [
+      100,
+      150,
+      200,
+      250,
+      300,
+      400,
+      550
+    ],
+    "plotSizesSqFt": [
+      900,
+      1350,
+      1800,
+      2250,
+      2700,
+      3600,
+      4950
+    ],
+    "startingPriceInLakhs": 30,
+    "startingPriceText": "₹30.0 Lakh*",
+    "projectType": "Gated Society Residential & Mixed Plots",
+    "reraStatus": "Approved Layout & Immediate Registry",
+    "reraNumber": "DTCP/JJR/N-2021/089",
+    "developer": "Nobel Infrastructure & Land Developers",
+    "possession": "Immediate Registry & Ready for Construction",
+    "propertyHighlights": [
+      "Sprawling 210-Acre secure gated township in Sector 1 Jhajjar",
+      "Most attractive entry price in Sector 1 at just ₹30,000 per Gaj (30k/gaj)",
+      "Flexible plot size options ranging from 100 Gaj up to 550 Gaj",
+      "Right opposite 8,260-Acre Reliance MET City mega economic zone",
+      "Perimeter boundary wall with grand 24x7 security entrance gate & boom barriers",
+      "30 feet and 40 feet wide metalled internal roads with concrete footpaths",
+      "Underground drainage, electricity poles with LED street lights, and green parks",
+      "Clear title land with instant registry and official mutation (Dakhil Kharij)"
+    ],
+    "pros": [
+      {
+        "title": "Unmatched Affordability (₹30k / Gaj)",
+        "description": "At ₹30,000 per Gaj, a 100 Gaj plot costs only ₹30 Lakh, making it 3.5x more affordable than Reliance MET City right across the road.",
+        "icon": "tag"
+      },
+      {
+        "title": "Massive MET City Spillover Demand",
+        "description": "Benefits directly from the 8,260-Acre Reliance MET City industrial workforce seeking affordable residential plots nearby.",
+        "icon": "zap"
+      },
+      {
+        "title": "Secure Gated Community",
+        "description": "Fully protected campus with 8-feet perimeter boundary walls, 24/7 security guards, automated entry gates, and continuous CCTV surveillance.",
+        "icon": "shield-check"
+      },
+      {
+        "title": "Flexible Plot Sizes (100 to 550 Gaj)",
+        "description": "Tailored for every budget: whether you want a compact 100 Gaj family villa or a luxurious 550 Gaj estate plot.",
+        "icon": "maximize"
+      },
+      {
+        "title": "Immediate Registry & Possession",
+        "description": "Hassle-free title clearance with immediate stamp-duty registration and mutation in the Tehsil office.",
+        "icon": "file-text"
+      },
+      {
+        "title": "Rapid Infrastructure Growth",
+        "description": "High ROI corridor with multi-lane road expansions, commercial markets, and upcoming educational hubs in Sector 1.",
+        "icon": "trending-up"
+      }
+    ],
+    "advantages": [
+      {
+        "category": "Price & Value Advantage",
+        "items": [
+          "Starting price from ₹30 Lakh only for 100 Gaj (900 Sq.Ft)",
+          "Over 300% projected capital gain as surrounding MET City phases mature",
+          "Low down-payment with easy interest-free installment options from developer",
+          "Zero hidden charges: transparent pricing inclusive of external development charges"
+        ]
+      },
+      {
+        "category": "Strategic Location Advantage",
+        "items": [
+          "Located prime in Sector 1 Jhajjar right next to Reliance MET City",
+          "5 minutes drive to KMP Expressway Badli toll plaza",
+          "20 minutes to Gurugram border (Sector 102/104 via Farrukhnagar)",
+          "10 minutes to AIIMS Jhajjar Cancer Care hospital complex",
+          "Surrounded by operational schools, petrol pumps, and local retail markets"
+        ]
+      },
+      {
+        "category": "Community & Lifestyle Advantage",
+        "items": [
+          "Serene pollution-free green setting away from Delhi's congestion",
+          "Dedicated community temple, central park, and children's play area",
+          "Demarcated commercial convenient shopping strip for daily groceries",
+          "Lush tree-lined walking tracks and underground electricity provisions"
+        ]
+      }
+    ],
+    "locationConnectivity": [
+      {
+        "destination": "Reliance MET City Main Gate",
+        "distance": "0.8 KM",
+        "travelTime": "2 Mins"
+      },
+      {
+        "destination": "KMP Expressway Interchange",
+        "distance": "2.5 KM",
+        "travelTime": "4 Mins"
+      },
+      {
+        "destination": "AIIMS-II Badli",
+        "distance": "5 KM",
+        "travelTime": "7 Mins"
+      },
+      {
+        "destination": "Farrukhnagar Market / Station",
+        "distance": "9 KM",
+        "travelTime": "12 Mins"
+      },
+      {
+        "destination": "Gurugram Dwarka Expressway",
+        "distance": "21 KM",
+        "travelTime": "22 Mins"
+      },
+      {
+        "destination": "Jhajjar City Bus Stand",
+        "distance": "12 KM",
+        "travelTime": "15 Mins"
+      }
+    ],
+    "amenities": [
+      {
+        "name": "Gated Entrance with Guard House",
+        "category": "Safety",
+        "icon": "shield"
+      },
+      {
+        "name": "30ft & 40ft Wide Roads",
+        "category": "Infrastructure",
+        "icon": "road"
+      },
+      {
+        "name": "CCTV Security Surveillance",
+        "category": "Safety",
+        "icon": "camera"
+      },
+      {
+        "name": "Electricity Supply & Street Lights",
+        "category": "Utilities",
+        "icon": "zap"
+      },
+      {
+        "name": "Potable Water Supply Network",
+        "category": "Utilities",
+        "icon": "droplet"
+      },
+      {
+        "name": "Green Community Parks",
+        "category": "Environment",
+        "icon": "trees"
+      },
+      {
+        "name": "Temple & Community Hall Space",
+        "category": "Community",
+        "icon": "home"
+      },
+      {
+        "name": "Retail Commercial Shops Strip",
+        "category": "Retail",
+        "icon": "shopping-bag"
+      }
+    ],
+    "masterPlanHighlights": [
+      "Total 210 Acres planned in cohesive sectors with wide internal circulation networks",
+      "Plot sizes organized systematically: 100 Gaj, 150 Gaj, 200 Gaj, 250 Gaj, 300 Gaj, and 550 Gaj",
+      "Clear setback requirements ensuring well-ventilated, aesthetically appealing residential construction",
+      "Designated green buffers along the boundary preventing external encroachment",
+      "Wide dual-entry gates for seamless ingress and egress of resident vehicles"
+    ],
+    "pricingBreakdown": [
+      {
+        "sizeGaj": 100,
+        "sizeSqFt": 900,
+        "basePrice": "₹30.0 Lakh",
+        "bookingAmount": "₹3.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹21,000*"
+      },
+      {
+        "sizeGaj": 150,
+        "sizeSqFt": 1350,
+        "basePrice": "₹45.0 Lakh",
+        "bookingAmount": "₹4.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹31,500*"
+      },
+      {
+        "sizeGaj": 200,
+        "sizeSqFt": 1800,
+        "basePrice": "₹60.0 Lakh",
+        "bookingAmount": "₹6.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹42,000*"
+      },
+      {
+        "sizeGaj": 250,
+        "sizeSqFt": 2250,
+        "basePrice": "₹75.0 Lakh",
+        "bookingAmount": "₹7.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹52,500*"
+      },
+      {
+        "sizeGaj": 300,
+        "sizeSqFt": 2700,
+        "basePrice": "₹90.0 Lakh",
+        "bookingAmount": "₹9.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹63,000*"
+      },
+      {
+        "sizeGaj": 550,
+        "sizeSqFt": 4950,
+        "basePrice": "₹1.65 Cr",
+        "bookingAmount": "₹16.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹1.15 Lakh*"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the plot rate in Nobel Economic Township Sector 1 Jhajjar?",
+        "answer": "The plot rate in Nobel Economic Township Sector 1 Jhajjar is ₹30,000 per Gaj (30k/Gaj). A 100 Gaj plot starts at only ₹30 Lakh, making it one of the most budget-friendly gated society investments in the KMP corridor."
+      },
+      {
+        "question": "What plot sizes are available in Nobel Economic Township?",
+        "answer": "Plots in Nobel Economic Township are available in sizes ranging from 100 Gaj to 550 Gaj (including 100, 150, 200, 250, 300, 400, and 550 Gaj), suitable for individual homes, villas, or long-term high-return investments."
+      },
+      {
+        "question": "Is Nobel Economic Township a gated society with security?",
+        "answer": "Yes, Nobel Economic Township is a fully secured 210-Acre gated community featuring an 8-feet perimeter boundary wall, grand security entrance gate, CCTV surveillance, and 24x7 security personnel."
+      },
+      {
+        "question": "Can I get immediate registry and possession for plots here?",
+        "answer": "Yes, clear freehold titles are available with immediate registry in the Jhajjar Tehsil and direct mutation (Dakhil Kharij) in the buyer's name."
+      },
+      {
+        "question": "How is the connectivity to Reliance MET City and Gurugram?",
+        "answer": "The township is located right in Sector 1, less than 1 km from Reliance MET City, 5 minutes from the KMP Expressway, and approximately 20-25 minutes from Gurugram via Farrukhnagar."
+      }
+    ],
+    "seo": {
+      "metaTitle": "Nobel Economic Township Sector 1 Jhajjar - Plots @ ₹30k/Gaj | 210 Acre Gated Society",
+      "metaDescription": "Buy gated society plots in Nobel Economic Township, Sector 1 Jhajjar. 210 Acre township with plot sizes 100 to 550 Gaj starting @ ₹30,000/Gaj (₹30 Lakh). Immediate registry & opposite Reliance MET City.",
+      "keywords": [
+        "nobel economic township jhajjar",
+        "nobel economic township sector 1",
+        "plots in jhajjar sector 1 30k per gaj",
+        "gated society plots in jhajjar",
+        "cheap plots in jhajjar",
+        "100 gaj plot in jhajjar price",
+        "nobel township plot size 100 to 550 gaj",
+        "plots near reliance met city jhajjar",
+        "residential plots in jhajjar sector 1",
+        "jhajjar plot for sale 30000 per gaj"
+      ],
+      "canonicalUrl": "https://www.jhajjarplots.com/plots/nobel-economic-township-sector-1-jhajjar"
+    }
+  },
+  {
+    "id": "om-dream-home",
+    "slug": "om-dream-home-sector-25-jhajjar",
+    "title": "Om Dream Home Sector 25 Jhajjar Plots",
+    "shortName": "Om Dream Home",
+    "tagline": "Prime Urban Residential Plots in Sector 25 Jhajjar at ₹55,000 per Gaj",
+    "badge": "Prime Urban Living",
+    "category": "Urban Plotted Development",
+    "featured": true,
+    "location": {
+      "sector": "Sector 25",
+      "city": "Jhajjar",
+      "district": "Jhajjar",
+      "state": "Haryana",
+      "landmark": "Near Civil Hospital & Jhajjar City Center",
+      "fullAddress": "Om Dream Home City, Sector 25, Rewari - Rohtak Highway Link, Jhajjar, Haryana 124103",
+      "pinCode": "124103",
+      "coordinates": {
+        "lat": 28.6085,
+        "lng": 76.6542
+      }
+    },
+    "ratePerGaj": 55000,
+    "ratePerGajText": "₹55,000 / Gaj (55k/Gaj)",
+    "totalArea": "65 Acres",
+    "plotSizesGaj": [
+      100,
+      120,
+      150,
+      200,
+      250,
+      350,
+      500
+    ],
+    "plotSizesSqFt": [
+      900,
+      1080,
+      1350,
+      1800,
+      2250,
+      3150,
+      4500
+    ],
+    "startingPriceInLakhs": 55,
+    "startingPriceText": "₹55.0 Lakh*",
+    "projectType": "Urban Residential Plotted Development",
+    "reraStatus": "Town & Country Planning Approved",
+    "reraNumber": "HR-TCP/JJR-SEC25/2020",
+    "developer": "Om Dream Real Estate & Infratech Pvt. Ltd.",
+    "possession": "Ready for Immediate Home Construction",
+    "propertyHighlights": [
+      "Prime planned urban residential sector inside Jhajjar Master Plan",
+      "Competitive rate of ₹55,000 per Gaj (55k/Gaj) in an established urban zone",
+      "Walking distance to Jhajjar city amenities, schools, banks, and markets",
+      "Ready neighborhood with ongoing villa and independent floor constructions",
+      "Municipal water supply, underground sewerage pipelines, and storm water drain",
+      "Dedicated electrical transformers with uninterrupted power feeder lines",
+      "Clean title freehold ownership with up to 80% bank loan approvals",
+      "5 minutes from Jhajjar Central Bus Stand & 10 mins from Railway Station"
+    ],
+    "pros": [
+      {
+        "title": "Prime Urban City Center Location",
+        "description": "Sector 25 is inside municipal Jhajjar, offering immediate access to Civil Hospital, Courts, and top schools within 5 minutes.",
+        "icon": "map-pin"
+      },
+      {
+        "title": "Immediate Construction Ready",
+        "description": "Families are already residing in the surrounding sector. You can start building your dream home from day one.",
+        "icon": "home"
+      },
+      {
+        "title": "Established Civic Utilities",
+        "description": "Pre-laid municipal water connections, covered underground sewage systems, and paved cement roads with street lighting.",
+        "icon": "check-circle"
+      },
+      {
+        "title": "Strong Rental & Resale Demand",
+        "description": "High rental demand from doctors, government officers, teachers, and business professionals working in Jhajjar district.",
+        "icon": "trending-up"
+      },
+      {
+        "title": "Easy Bank Financing (Up to 80%)",
+        "description": "Approved by SBI, PNB, Canara Bank, and HDFC for quick plot purchase and home construction composite loans.",
+        "icon": "credit-card"
+      },
+      {
+        "title": "Balanced Value (₹55,000 / Gaj)",
+        "description": "Offers the perfect sweet-spot price between early-stage suburban plots and congested high-priced old city areas.",
+        "icon": "tag"
+      }
+    ],
+    "advantages": [
+      {
+        "category": "Neighborhood & Social Infrastructure",
+        "items": [
+          "2 minutes to Government Civil Hospital Jhajjar and multispecialty clinics",
+          "Prestigious schools nearby: Delhi Public School (DPS), St. Thomas School, Govt. College",
+          "Mini Secretariat, District Court, and Police Station within 5-7 minutes",
+          "Direct access to banks, ATMs, shopping complexes, and vegetable markets"
+        ]
+      },
+      {
+        "category": "Inter-City Road & Rail Connectivity",
+        "items": [
+          "Located off the Rewari-Rohtak National Highway (NH-352)",
+          "5 minutes to Jhajjar Inter-State Bus Terminus (ISBT)",
+          "10 minutes to Jhajjar Railway Station with direct train connectivity",
+          "30 minutes to Rohtak City and 35 minutes to Gurugram via Farrukhnagar highway"
+        ]
+      },
+      {
+        "category": "Township Specifications & Comfort",
+        "items": [
+          "30ft, 35ft, and 45ft wide internal RCC paved roads",
+          "Fully landscaped green parks with jogging track and gazebo seating",
+          "Underground drainage preventing street water stagnation in monsoons",
+          "Dedicated commercial shopping SCO complex inside the project"
+        ]
+      }
+    ],
+    "locationConnectivity": [
+      {
+        "destination": "Civil Hospital Jhajjar",
+        "distance": "1.5 KM",
+        "travelTime": "3 Mins"
+      },
+      {
+        "destination": "Jhajjar Central Bus Stand",
+        "distance": "2.8 KM",
+        "travelTime": "5 Mins"
+      },
+      {
+        "destination": "Mini Secretariat & Courts",
+        "distance": "3.5 KM",
+        "travelTime": "7 Mins"
+      },
+      {
+        "destination": "Jhajjar Railway Station",
+        "distance": "5.2 KM",
+        "travelTime": "10 Mins"
+      },
+      {
+        "destination": "Rohtak City Center",
+        "distance": "32 KM",
+        "travelTime": "30 Mins"
+      },
+      {
+        "destination": "Gurugram (via Farrukhnagar)",
+        "distance": "38 KM",
+        "travelTime": "40 Mins"
+      }
+    ],
+    "amenities": [
+      {
+        "name": "RCC Metalled Internal Roads",
+        "category": "Infrastructure",
+        "icon": "road"
+      },
+      {
+        "name": "Municipal Water Network",
+        "category": "Utilities",
+        "icon": "droplet"
+      },
+      {
+        "name": "Underground Sewerage System",
+        "category": "Utilities",
+        "icon": "tool"
+      },
+      {
+        "name": "Power Feeder & Transformers",
+        "category": "Utilities",
+        "icon": "zap"
+      },
+      {
+        "name": "Landscaped Family Parks",
+        "category": "Environment",
+        "icon": "trees"
+      },
+      {
+        "name": "Children Play Zone",
+        "category": "Recreation",
+        "icon": "smile"
+      },
+      {
+        "name": "Street Light Network",
+        "category": "Safety",
+        "icon": "sun"
+      },
+      {
+        "name": "Commercial Daily Needs Plaza",
+        "category": "Retail",
+        "icon": "shopping-bag"
+      }
+    ],
+    "masterPlanHighlights": [
+      "Master-planned 65-Acre residential sector ensuring harmonious urban living",
+      "Plot sizes suited for nuclear and joint families: 100 Gaj, 120 Gaj, 150 Gaj, 200 Gaj, 250 Gaj, and 500 Gaj",
+      "Generous road widths ensuring two-way vehicular movement and easy car parking",
+      "Central park serving as a community social node with green tree belts",
+      "Proper earmarking for community center, dispensary, and nursery school"
+    ],
+    "pricingBreakdown": [
+      {
+        "sizeGaj": 100,
+        "sizeSqFt": 900,
+        "basePrice": "₹55.0 Lakh",
+        "bookingAmount": "₹5.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹38,500*"
+      },
+      {
+        "sizeGaj": 120,
+        "sizeSqFt": 1080,
+        "basePrice": "₹66.0 Lakh",
+        "bookingAmount": "₹6.6 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹46,200*"
+      },
+      {
+        "sizeGaj": 150,
+        "sizeSqFt": 1350,
+        "basePrice": "₹82.5 Lakh",
+        "bookingAmount": "₹8.25 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹57,750*"
+      },
+      {
+        "sizeGaj": 200,
+        "sizeSqFt": 1800,
+        "basePrice": "₹1.10 Cr",
+        "bookingAmount": "₹11.0 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹77,000*"
+      },
+      {
+        "sizeGaj": 250,
+        "sizeSqFt": 2250,
+        "basePrice": "₹1.37 Cr",
+        "bookingAmount": "₹13.75 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹96,250*"
+      },
+      {
+        "sizeGaj": 500,
+        "sizeSqFt": 4500,
+        "basePrice": "₹2.75 Cr",
+        "bookingAmount": "₹27.5 Lakh (10%)",
+        "estimatedMonthlyEMI": "₹1.92 Lakh*"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the plot rate in Om Dream Home Sector 25 Jhajjar?",
+        "answer": "The plot rate in Om Dream Home Sector 25 Jhajjar is ₹55,000 per Gaj (55k/Gaj). A standard 100 Gaj plot is priced at ₹55 Lakh, while a 150 Gaj plot is ₹82.5 Lakh."
+      },
+      {
+        "question": "Can I start house construction immediately in Om Dream Home?",
+        "answer": "Yes, Sector 25 Jhajjar is an active urban residential sector. The roads, electricity lines, and water pipelines are installed, and several houses and villas are already constructed."
+      },
+      {
+        "question": "What is the location advantage of Sector 25 compared to Sector 1?",
+        "answer": "While Sector 1 is adjacent to the industrial/economic KMP corridor and Reliance MET City, Sector 25 is inside Jhajjar city center, just 3-5 minutes from Civil Hospital, Court complex, District Secretariat, and major schools."
+      },
+      {
+        "question": "Are bank loans available for Om Dream Home Sector 25?",
+        "answer": "Yes, bank loan facilities of up to 75-80% of the property value are available from nationalized and private banks including SBI, PNB, HDFC, and ICICI."
+      },
+      {
+        "question": "What is the registry and mutation status of plots in Om Dream Home?",
+        "answer": "All plots have clear freehold registry titles with immediate mutation (Dakhil Kharij) in the Jhajjar Tehsil sub-registrar office."
+      }
+    ],
+    "seo": {
+      "metaTitle": "Om Dream Home Sector 25 Jhajjar - Plots @ ₹55,000/Gaj | Ready Possession",
+      "metaDescription": "Explore residential plots in Om Dream Home, Sector 25 Jhajjar at ₹55k per gaj. 100 to 500 Gaj plots near Civil Hospital & City Center. Bank loan approved, immediate registry & construction ready.",
+      "keywords": [
+        "om dream home jhajjar",
+        "om dream home sector 25",
+        "plots in jhajjar sector 25",
+        "om dream city jhajjar 55k per gaj",
+        "residential plots in jhajjar city",
+        "plots near civil hospital jhajjar",
+        "jhajjar sector 25 plot price",
+        "ready to build plots jhajjar",
+        "freehold plots jhajjar 55000 per gaj",
+        "property in jhajjar sector 25"
+      ],
+      "canonicalUrl": "https://www.jhajjarplots.com/plots/om-dream-home-sector-25-jhajjar"
+    }
+  }
+]
